@@ -8,14 +8,16 @@
         /// <summary>
         /// Player vs Enviroment
         /// </summary>
-        PvE,
-        /// <summary>
-        /// Structured Player vs Player
-        /// </summary>
-        PvP,
+        PvE = 0,
+
         /// <summary>
         /// World vs World
         /// </summary>
-        WvW
+        WvW = 1,
+
+        /// <summary>
+        /// Structured Player vs Player
+        /// </summary>
+        PvP = 2
     }
 }
