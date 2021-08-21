@@ -1,7 +1,7 @@
 ﻿namespace Hardstuck.GuildWars2
 {
     /// <summary>
-    /// Elite specialisation of the current character
+    /// Elite specialisation of a character
     /// </summary>
     public enum EliteSpecialisation
     {
@@ -12,78 +12,94 @@
 
         // HOT
         /// <summary>
-        /// Dragonhunter
+        /// Guardian - Dragonhunter
         /// </summary>
         Dragonhunter = 27,
         /// <summary>
-        /// Berserker
+        /// Warrior - Berserker
         /// </summary>
         Berserker = 18,
         /// <summary>
-        /// Scrapper
+        /// Engineer - Scrapper
         /// </summary>
         Scrapper = 43,
         /// <summary>
-        /// Druid
+        /// Ranger - Druid
         /// </summary>
         Druid = 5,
         /// <summary>
-        /// Daredevil
+        /// Thief - Daredevil
         /// </summary>
         Daredevil = 7,
         /// <summary>
-        /// Tempest
+        /// Elementalist - Tempest
         /// </summary>
         Tempest = 48,
         /// <summary>
-        /// Chronomancer
+        /// Mesmer - Chronomancer
         /// </summary>
         Chronomancer = 40,
         /// <summary>
-        /// Reaper
+        /// Necromancer - Reaper
         /// </summary>
         Reaper = 34,
         /// <summary>
-        /// Herald
+        /// Revenant - Herald
         /// </summary>
         Herald = 52,
 
         // POF
         /// <summary>
-        /// Firebrand
+        /// Guardian - Firebrand
         /// </summary>
         Firebrand = 62,
         /// <summary>
-        /// Spellbreaker
+        /// Warrior - Spellbreaker
         /// </summary>
         Spellbreaker = 61,
         /// <summary>
-        /// Holosmith
+        /// Engineer - Holosmith
         /// </summary>
         Holosmith = 57,
         /// <summary>
-        /// Soulbeast
+        /// Ranger - Soulbeast
         /// </summary>
         Soulbeast = 55,
         /// <summary>
-        /// Deadeye
+        /// Thief - Deadeye
         /// </summary>
         Deadeye = 58,
         /// <summary>
-        /// Weaver
+        /// Elementalist - Weaver
         /// </summary>
         Weaver = 56,
         /// <summary>
-        /// Mirage
+        /// Mesmer - Mirage
         /// </summary>
         Mirage = 59,
         /// <summary>
-        /// Scourge
+        /// Necromancer - Scourge
         /// </summary>
         Scourge = 60,
         /// <summary>
-        /// Renegade
+        /// Revenant - Renegade
         /// </summary>
-        Renegade = 63
+        Renegade = 63,
+
+        // EoD
+        /// <summary>
+        /// Guardian - Willbender
+        /// </summary>
+        Willbender = 65,
+
+        /// <summary>
+        /// Mesmer - Virtuoso
+        /// </summary>
+        Virtuoso = 66,
+
+        /// <summary>
+        /// Necromancer - Harbinger
+        /// </summary>
+        Harbinger = 64,
     }
 }
