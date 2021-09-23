@@ -8,11 +8,11 @@
         /// <summary>
         /// DirectX 9
         /// </summary>
-        DX9 = 0,
+        DX9 = 9,
 
         /// <summary>
         /// DirectX 11
         /// </summary>
-        DX11 = 1
+        DX11 = 11
     }
 }
