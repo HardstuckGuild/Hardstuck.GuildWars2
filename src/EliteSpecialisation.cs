@@ -10,96 +10,126 @@
         /// </summary>
         None = 0,
 
-        // HOT
+        // Heart of Thorns
         /// <summary>
-        /// Guardian - Dragonhunter
+        /// Guardian - Dragonhunter - Heart of Thorns
         /// </summary>
         Dragonhunter = 27,
         /// <summary>
-        /// Warrior - Berserker
+        /// Warrior - Berserker - Heart of Thorns
         /// </summary>
         Berserker = 18,
         /// <summary>
-        /// Engineer - Scrapper
+        /// Engineer - Scrapper - Heart of Thorns
         /// </summary>
         Scrapper = 43,
         /// <summary>
-        /// Ranger - Druid
+        /// Ranger - Druid - Heart of Thorns
         /// </summary>
         Druid = 5,
         /// <summary>
-        /// Thief - Daredevil
+        /// Thief - Daredevil - Heart of Thorns
         /// </summary>
         Daredevil = 7,
         /// <summary>
-        /// Elementalist - Tempest
+        /// Elementalist - Tempest - Heart of Thorns
         /// </summary>
         Tempest = 48,
         /// <summary>
-        /// Mesmer - Chronomancer
+        /// Mesmer - Chronomancer - Heart of Thorns
         /// </summary>
         Chronomancer = 40,
         /// <summary>
-        /// Necromancer - Reaper
+        /// Necromancer - Reaper - Heart of Thorns
         /// </summary>
         Reaper = 34,
         /// <summary>
-        /// Revenant - Herald
+        /// Revenant - Herald - Heart of Thorns
         /// </summary>
         Herald = 52,
 
-        // POF
+        // Path of Fire
         /// <summary>
-        /// Guardian - Firebrand
+        /// Guardian - Firebrand - Path of Fire
         /// </summary>
         Firebrand = 62,
         /// <summary>
-        /// Warrior - Spellbreaker
+        /// Warrior - Spellbreaker - Path of Fire
         /// </summary>
         Spellbreaker = 61,
         /// <summary>
-        /// Engineer - Holosmith
+        /// Engineer - Holosmith - Path of Fire
         /// </summary>
         Holosmith = 57,
         /// <summary>
-        /// Ranger - Soulbeast
+        /// Ranger - Soulbeast - Path of Fire
         /// </summary>
         Soulbeast = 55,
         /// <summary>
-        /// Thief - Deadeye
+        /// Thief - Deadeye - Path of Fire
         /// </summary>
         Deadeye = 58,
         /// <summary>
-        /// Elementalist - Weaver
+        /// Elementalist - Weaver - Path of Fire
         /// </summary>
         Weaver = 56,
         /// <summary>
-        /// Mesmer - Mirage
+        /// Mesmer - Mirage - Path of Fire
         /// </summary>
         Mirage = 59,
         /// <summary>
-        /// Necromancer - Scourge
+        /// Necromancer - Scourge - Path of Fire
         /// </summary>
         Scourge = 60,
         /// <summary>
-        /// Revenant - Renegade
+        /// Revenant - Renegade - Path of Fire
         /// </summary>
         Renegade = 63,
 
-        // EoD
+        // End of Dragons
         /// <summary>
-        /// Guardian - Willbender
+        /// Guardian - Willbender - End of Dragons
         /// </summary>
         Willbender = 65,
 
         /// <summary>
-        /// Mesmer - Virtuoso
+        /// Mesmer - Virtuoso - End of Dragons
         /// </summary>
         Virtuoso = 66,
 
         /// <summary>
-        /// Necromancer - Harbinger
+        /// Necromancer - Harbinger - End of Dragons
         /// </summary>
         Harbinger = 64,
+
+        /// <summary>
+        /// Revenant - Vindicator - End of Dragons
+        /// </summary>
+        Vindicator = 69,
+
+        /// <summary>
+        /// Warrior - Bladesworn - End of Dragons
+        /// </summary>
+        Bladesworn = 68,
+
+        /// <summary>
+        /// Elementalist - Catalyst - End of Dragons
+        /// </summary>
+        Catalyst = 67,
+
+        /// <summary>
+        /// Thief - Specter - End of Dragons
+        /// </summary>
+        Specter = 71,
+
+        /// <summary>
+        /// Ranger - Untamed - End of Dragons
+        /// </summary>
+        Untamed = 72,
+
+        /// <summary>
+        /// Engineer - Mechanist - End of Dragons
+        /// </summary>
+        Mechanist = 70
     }
 }
