@@ -5,7 +5,7 @@ namespace Hardstuck.GuildWars2
     /// <summary>
     /// Provides sets of utility methods for handling character names.
     /// </summary>
-    public static class Utils
+    public static class CharacterUtils
     {
         /// <summary>
         /// Converts the string to a properly spaced character name.
