@@ -28,6 +28,6 @@
         /// <summary>
         /// Sylvari
         /// </summary>
-        Sylvari = 4
+        Sylvari = 4,
     }
 }

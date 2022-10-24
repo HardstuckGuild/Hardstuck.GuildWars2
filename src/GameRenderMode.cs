@@ -10,12 +10,12 @@ namespace Hardstuck.GuildWars2
         /// <summary>
         /// DirectX 9 - deprecated
         /// </summary>
-        [Obsolete]
+        [Obsolete("DirectX9 is deprecated by the game and will be removed in the future.")]
         DX9 = 9,
 
         /// <summary>
         /// DirectX 11
         /// </summary>
-        DX11 = 11
+        DX11 = 11,
     }
 }

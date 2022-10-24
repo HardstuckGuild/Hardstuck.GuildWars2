@@ -19,6 +19,6 @@ namespace Hardstuck.GuildWars2
         /// </summary>
         /// <param name="characterName">unconverted character name</param>
         /// <returns>converted character name</returns>
-        public static string ConvertToCharacterName(string characterName) => characterName.Split(' ').Where(x => x.Length > 0).Select(x => x.ToLower()).Select(x => $"{x[0].ToString().ToUpper()}{x.Substring(1)}").Aggregate((x, y) => $"{x} {y}");
+        public static string ConvertToCharacterName(string characterName) => characterName.Split(' ').Where(x => x.Length > 0).Select(x => x.ToLower()).Select(x => x[0].ToString().ToUpper() + x.Substring(1)).Aggregate((x, y) => $"{x} {y}");
     }
 }

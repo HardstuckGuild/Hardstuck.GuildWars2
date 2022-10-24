@@ -48,6 +48,6 @@
         /// <summary>
         /// Revenant
         /// </summary>
-        Revenant = 0x09
+        Revenant = 0x09,
     }
 }

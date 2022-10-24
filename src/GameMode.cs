@@ -18,6 +18,6 @@
         /// <summary>
         /// Structured Player vs Player
         /// </summary>
-        PvP = 2
+        PvP = 2,
     }
 }
