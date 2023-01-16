@@ -130,6 +130,6 @@
         /// <summary>
         /// Engineer - Mechanist - End of Dragons
         /// </summary>
-        Mechanist = 70
+        Mechanist = 70,
     }
 }
